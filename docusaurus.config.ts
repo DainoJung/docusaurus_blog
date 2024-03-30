@@ -109,7 +109,7 @@ const config: Config = {
         {
           type: 'docSidebar',
           sidebarId: 'etc', 
-          label: 'Etc', 
+          label: 'etc', 
           position: 'left'
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
