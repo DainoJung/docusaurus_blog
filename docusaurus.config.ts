@@ -106,7 +106,18 @@ const config: Config = {
           label: 'Data', 
           position: 'left'
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          type: 'docSidebar',
+          sidebarId: 'etc', 
+          label: 'Etc', 
+          position: 'left'
+        },
+        // {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          href: 'https://daino.tistory.com/',
+          label: 'Blog',
+          position: 'left',
+        },
         {
           href: 'https://github.com/DainoJung',
           label: 'GitHub',
