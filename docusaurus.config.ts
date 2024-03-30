@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: "Daino's doc",
+  title: "Daino's Docs",
   tagline: '보고 듣고 배운것을 기록합니다.',
   favicon: 'img/favicon.ico',
 
