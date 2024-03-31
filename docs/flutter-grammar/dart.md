@@ -285,13 +285,15 @@ void main() {
 
 - 둘 중 편한거 선택 - positional 형식 추천
 
+#### named 형식
+
 ![named 형식](https://github.com/DainoJung/docusaurus_blog/assets/117745618/13fc5f6f-9c56-4083-8836-dd7f37e694f3)
 
-named 형식
+#### positional 형식
 
 ![positional 형식](https://github.com/DainoJung/docusaurus_blog/assets/117745618/9c8070ac-fcec-453f-a114-fbbe2506cb3b)
 
-positional 형식
+<br/>
 
 ![스크린샷 2023-03-23 오전 9.39.53.png](https://github.com/DainoJung/docusaurus_blog/assets/117745618/1adf89e9-cca0-47c8-ad0d-5efbd8ed9b14)
 
@@ -337,7 +339,7 @@ team은 red와  blue만 가능
 
 - super 상속 받은 부모 클래스의 프로퍼티에 접근하거나 메소드를 호출할 수 있게 해줌
 
-![스크린샷 2023-03-24 오전 9.31.27.png](https://github.com/DainoJung/docusaurus_blog/assets/117745618/d4f1ca7b-b7eb-40ee-97fd-53d364593710")
+![스크린샷 2023-03-24 오전 9.31.27.png](https://github.com/DainoJung/docusaurus_blog/assets/117745618/a97f2106-4e22-4d71-8f91-42b6abc25127)
 
 ![스크린샷 2023-03-24 오전 9.31.44.png](https://github.com/DainoJung/docusaurus_blog/assets/117745618/6d068660-5e69-44c5-a3d8-91435f156e8f)
 
