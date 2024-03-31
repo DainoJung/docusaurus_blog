@@ -182,7 +182,7 @@ void main() {
 
 - function에 여러 함수를 사용하는것은 불편
 
-![스크린샷 2023-03-22 오전 9.41.00.png](https://github.com/DainoJung/docusaurus_blog/assets/117745618/d4f1ca7b-b7eb-40ee-97fd-53d364593710)
+![스크린샷 2023-03-22 오전 9.41.00.png](https://github.com/DainoJung/docusaurus_blog/assets/117745618/70cd6072-e391-4581-bef8-e24d16013203)
 
 - named argument 사용시 { } 추가
 - 순서와 상관 없이 구분해서 사용 가능
@@ -337,9 +337,9 @@ team은 red와  blue만 가능
 
 - super 상속 받은 부모 클래스의 프로퍼티에 접근하거나 메소드를 호출할 수 있게 해줌
 
-![스크린샷 2023-03-24 오전 9.31.27.png](https://github.com/DainoJung/docusaurus_blog/assets/117745618/be9bec41-6dc2-4aae-931a-d52f44c3b65a")
+![스크린샷 2023-03-24 오전 9.31.27.png](https://github.com/DainoJung/docusaurus_blog/assets/117745618/d4f1ca7b-b7eb-40ee-97fd-53d364593710")
 
-![스크린샷 2023-03-24 오전 9.31.44.png](https://github.com/DainoJung/docusaurus_blog/assets/117745618/6d068660-5e69-44c5-a3d8-91435f156e8)
+![스크린샷 2023-03-24 오전 9.31.44.png](https://github.com/DainoJung/docusaurus_blog/assets/117745618/6d068660-5e69-44c5-a3d8-91435f156e8f)
 
 ### **Mixins**
 
