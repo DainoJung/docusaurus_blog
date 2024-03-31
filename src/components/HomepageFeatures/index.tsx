@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Love of Difficulty',
+    title: 'Love of Pain',
     Svg: () => (
       <img src="https://em-content.zobj.net/source/apple/391/puzzle-piece_1f9e9.png" width="160" height="160" />
     ),
