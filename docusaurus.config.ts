@@ -74,7 +74,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/daino-social-card.jpg',
+    image: 'img/daino-social-card.png',
     navbar: {
       title: "Daino's Docs",
       logo: {
