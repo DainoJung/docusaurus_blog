@@ -61,13 +61,13 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-        /*
-        구글 애널리틱스 설정
+        
+        // 구글 애널리틱스 설정
         gtag: {
-          trackingID: 'G-QTCKXBPZ9B',
+          trackingID: 'G-CQYQEB1QEL',
           anonymizeIP: true,
         },
-        */
+        
       } satisfies Preset.Options,
     ],
   ],
