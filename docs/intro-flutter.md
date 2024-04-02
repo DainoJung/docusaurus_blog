@@ -6,7 +6,7 @@
 - 네이티브 언어를 사용하지 않는다. → 네이티브 위젯 사용 불가
 - 자유성이 높다(랜더링 엔진으로 그려지기 때문)
 
-![운영체제 (dart로 만들어진 flutter) → 엔진 (C/C++) → 호스트 플랫포폼 (ios/android/web)](https://github.com/DainoJung/my-website/assets/117745618/c96066f2-1725-4f9f-94c0-1c760c903498)
+![운영체제 (dart로 만들어진 flutter) → 엔진 (C/C++) → 호스트 플랫포폼 (ios/android/web)](https://github.com/DainoJung/docusaurus_blog/assets/117745618/6c7c0f24-1488-4407-b5b8-8bed80f63617)
 
 운영체제 (dart로 만들어진 flutter) → 엔진 (C/C++) → 호스트 플랫포폼 (ios/android/web)
 
