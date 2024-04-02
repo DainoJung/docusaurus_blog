@@ -265,7 +265,7 @@ git pull origin main : origin의 내용을 main 브랜치로 가져옴
 
 ---
 
-**마크다운 문법 - 참고 : https://help.github. com/en/articles/basic-writing-andformatting-syntax**
+**마크다운 문법 - 참고 : https://help.github.com/en/articles/basic-writing-andformatting-syntax**
 
 #	:	제목을 붙일 때 사용, 1~6개 개수로 크기 조정, [#]과 텍스트 사이에 여백이 있어야함
 
