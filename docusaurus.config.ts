@@ -1,6 +1,8 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
   title: "Daino's Docs",
@@ -28,8 +30,17 @@ const config: Config = {
     defaultLocale: 'ko',
     locales: ['ko'],
   },
-
   presets: [
+    // [
+    //   '@docusaurus/preset-classic',
+    //   {
+    //     docs: {
+    //       path: 'docs',
+    //       remarkPlugins: [remarkMath],
+    //       rehypePlugins: [rehypeKatex],
+    //     },
+    //   },
+    // ],
     [
       'classic',
       {
